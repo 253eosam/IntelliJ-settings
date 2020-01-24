@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="QuickChangeScheme" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+</keymap>
