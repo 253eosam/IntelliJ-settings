@@ -86,14 +86,13 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="Hibernate*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="grepExpression" value="Hibernate:.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16742007" />
+                              <option name="color" value="-16742126" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
