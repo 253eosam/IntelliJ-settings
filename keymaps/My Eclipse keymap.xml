@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.PreviousPage" />
   <action id="EditorScrollToCenter" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
