@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="userAPI" type="JavaScript" />
       <mapping pattern="Board" type="Vue.js" />
       <mapping pattern="axiosConfig" type="Vue.js" />
     </extensionMap>
