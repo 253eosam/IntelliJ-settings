@@ -10,5 +10,6 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="RecentLocations" />
   <action id="SelectNextOccurrence" />
 </keymap>
