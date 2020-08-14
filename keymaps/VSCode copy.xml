@@ -1,0 +1,7 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SelectNextOccurrence" />
+</keymap>
