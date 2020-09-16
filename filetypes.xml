@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="userAPI" type="JavaScript" />
+      <mapping pattern="reflashManager.js" type="PATCH" />
+      <mapping pattern="UserInfo" type="TypeScript" />
+      <mapping pattern="Board" type="Vue.js" />
+      <mapping pattern="axiosConfig" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
