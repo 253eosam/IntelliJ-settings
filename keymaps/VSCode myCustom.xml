@@ -1,4 +1,8 @@
 <keymap version="1" name="VSCode myCustom" parent="VSCode">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="Console.TableResult.SelectRow" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
