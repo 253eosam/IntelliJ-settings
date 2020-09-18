@@ -1,9 +1,6 @@
-<keymap version="1" name="VSCode (macOS) custom" parent="VSCode OSX">
+<keymap version="1" name="VSCode myCustom" parent="VSCode">
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="shift meta k" />
