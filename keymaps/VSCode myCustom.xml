@@ -1,15 +1,13 @@
-<keymap version="1" name="VSCode copy" parent="VSCode">
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift meta w" />
-  </action>
+<keymap version="1" name="VSCode myCustom" parent="VSCode">
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="RecentLocations" />
-  <action id="SelectNextOccurrence" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
 </keymap>
